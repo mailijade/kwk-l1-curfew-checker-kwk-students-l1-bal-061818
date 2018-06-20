@@ -1,5 +1,5 @@
-def simple_curfew_checker(time)
-  # code goes here
+def go_back_to_common_room (11.00)
+  if time
 end
 
 def curfew_checker(time)
